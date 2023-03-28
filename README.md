@@ -34,12 +34,12 @@
 
 ## 동기와 비동기
 
-[클릭]("")
+[클릭](https://github.com/BOLTB0X/RxSwift/blob/main/lecture/syncAsync.md)
 <br/>
 
 ## RxSwift의 주요 기능
 
-- [Observable]("")
+- [Observable](https://github.com/BOLTB0X/RxSwift/blob/main/lecture/Observable.md)
 
 ---
 
